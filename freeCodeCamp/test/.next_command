@@ -208,3 +208,4 @@ cp background.jpg images
 cd images/
 l
 ls --color=auto
+cd ..
