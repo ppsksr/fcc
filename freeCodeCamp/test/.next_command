@@ -166,3 +166,4 @@ cd has
 cd ..
 pwd
 cd ../..
+ls --color=auto
