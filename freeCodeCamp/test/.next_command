@@ -286,3 +286,4 @@ mkdir images
 cd images/
 pwd
 touch background.jpg
+cd ../../..
