@@ -265,3 +265,14 @@ ls --color=auto
 cd website
 ls --color=auto
 find -name index.html
+cd ../freeCodeCamp/
+more reset.h
+ls --color=auto
+cat reset.sh
+cd ..
+l
+ls --color=auto
+cd website/
+find -name styles.ss
+find -name styles.cdd
+find -name styles.css
