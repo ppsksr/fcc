@@ -172,3 +172,4 @@ __vsc_prompt_cmd_original
 mkdr website
 mkdir website
 ls --color=auto
+cd website/
