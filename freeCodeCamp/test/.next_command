@@ -302,3 +302,5 @@ find -name footer.jpeg
 mv images/footer.jpeg client/assets/images/
 find
 rmdir images
+ls --color=auto images/
+rm images/background.jpg
