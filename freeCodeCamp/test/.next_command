@@ -328,3 +328,4 @@ rm --help
 ls --color=auto
 pwd
 rm -r fonts/
+ls --color=auto
