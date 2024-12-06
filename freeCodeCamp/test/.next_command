@@ -291,3 +291,4 @@ cd images
 ls --color=auto
 pwd
 mv header.png ..
+ls --color=auto
