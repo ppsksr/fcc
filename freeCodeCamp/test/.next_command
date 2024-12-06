@@ -246,3 +246,22 @@ find
 find client
 find help
 find --help
+ls --color=auto
+find -name index.html
+cd freeCodeCamp/reset_files/
+ls --color=auto
+cd website/
+ls --color=auto
+cd ..
+ls --color=auto
+mv website/ ..
+ls --color=auto
+cd ..
+ls --color=auto
+mv website/ ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd website
+ls --color=auto
+find -name index.html
